@@ -17,4 +17,4 @@ Realizar un diagrama de flujo que  la computadora realice el proceso de pedir un
 14. Pagar
 
  
-[image](http://i64.tinypic.com/13z98cw.jpg{width=40px (670KB) height=400px})
+![image](diagrama.jpg.crdownload)
